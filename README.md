@@ -76,7 +76,7 @@ t3CodesCommanders/
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/daniyarzhalgas/t3-Codes-Commanders.git
    cd t3CodesCommanders
    ```
 
